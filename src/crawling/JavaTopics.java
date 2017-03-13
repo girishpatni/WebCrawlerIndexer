@@ -16,9 +16,6 @@ public class JavaTopics {
 			"checked", "uncheked", "collection", "arrayList", "map", "class", "object", "interfaces", "inheritance",
 			"overloading", "constructors" };
 
-	// private static final Set<String> topicSet = new
-	// HashSet<String>(Arrays.asList(topics));
-
 	public static boolean ContainJavaTopic(String input) {
 		System.out.println(input);
 		Arrays.sort(topics);
