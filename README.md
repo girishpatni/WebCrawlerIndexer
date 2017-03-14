@@ -8,4 +8,4 @@ Database is used to keep track of web pages parsed.
 
 Apache Lucene Indexer indexes pages to in-memeory database , 
 
-this database queried to give pages having most frequency of given keywords.
+This in-memory database is queried to give pages having most frequency of user selected keywords.
